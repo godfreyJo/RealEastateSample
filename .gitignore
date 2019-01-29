@@ -4,6 +4,6 @@
 __pycache__/
 local_settings.py
 db.sqlite3
-m/edia
+/media
 venv
 /static
